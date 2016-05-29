@@ -1,3 +1,3 @@
-class LandmarksController < ApplicationController
+class LandmarksController < Sinatra::Base
 
 end
